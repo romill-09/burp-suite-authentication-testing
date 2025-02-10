@@ -1,0 +1,18 @@
+POST /v1/accounts:signInWithPassword?key=AIzaSyBCnfFknA86LiA71p80NrqkDN9eY9_IIhE HTTP/2
+Host: identitytoolkit.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+X-Client-Version: Firefox/JsCore/10.9.0/FirebaseCore-web
+X-Firebase-Gmpid: 1:365273998386:web:24f0c3af94b5d6ca32082b
+Content-Type: application/json
+Content-Length: 106
+Origin: https://beer-tracker-8c448.web.app
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
+{"returnSecureToken":true,"email":"test@gmail.com","password":"Testing@69","clientType":"CLIENT_TYPE_WEB"}
