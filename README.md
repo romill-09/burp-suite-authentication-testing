@@ -7,8 +7,6 @@ This repository contains resources, configurations, and scripts for conducting w
 
 ```
 📂 burp-suite-security-testing/
-├── 📁 report/
-│   ├── report.pdf
 ├── 📁 burp-configs/
 │   ├── intruder_payloads.txt
 ├── 📁 curl-commands/
