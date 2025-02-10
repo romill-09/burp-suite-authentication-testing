@@ -22,20 +22,20 @@ This repository contains resources, configurations, and scripts for conducting w
 
 ## Contents
 
-### **1. Report (`/report/`)
+### 1. Report (`/report/`)
 Contains the final Burp Suite testing report in PDF format.
 
-### **2. Burp Suite Configurations (`/burp-configs/`)
+### 2. Burp Suite Configurations (`/burp-configs/`)
 - `intruder_payloads.txt` - Sample payloads for brute-force and injection testing.
 
-### **3. cURL Commands (`/curl-commands/`)
+### 3. cURL Commands (`/curl-commands/`)
 - `auth_testing.sh` - A shell script with `curl` commands for testing Firebase login security.
 - Replace "https://your-firebase-app.firebaseio.com/auth" with the actual authentication API endpoint (the one you intercept in Burp).
 
-### **4. Logs (`/logs/`)
+### 4. Logs (`/logs/`)
 - `intercepted_requests.log` - Sample intercepted HTTP requests from Firebase authentication.
 
-### **5. Additional Tools (`/tools/`)
+### 5. Additional Tools (`/tools/`)
 - `jwt_decoder.py` - A Python script to decode Firebase JWT tokens.
 
 ## How to Use This Repository
