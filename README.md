@@ -17,6 +17,7 @@ This repository contains resources, configurations, and scripts for conducting w
 ├── 📁 tools/
 │   ├── jwt_decoder.py
 ├── README.md
+├── Report - BurpSuite
 ```
 
 ## Contents
